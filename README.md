@@ -1,5 +1,5 @@
 # 1. MAGENTO 2 IMAGE GALLERY
-Impress your customers and enhance your store credibility by using our Magento 2 testimonials extension. Using this Magento testimonials module, you can monitor customer's review and testimonial easily on a daily basis. Thanks to this you can convert more sale for your store.
+With Image Gallery extension for Magento 2, admin can create eye-catching photo galleries into various categories according to requirement. Admin can easily manage image albums and categories on the website. Admin can use this image gallery extension to publish photo albums of products, events, customers stories
 
 - Show Image in eye catching & light box
 - 100% Responsive Magento Image Gallery
