@@ -170,4 +170,4 @@ Freely create product image galleries for magento 2 that are shown in touch opti
 - [Magento 2 Price Comparison](https://landofcoder.com/magento-2-price-comparison.html/)
 - [Magento 2 SMTP Extension](https://landofcoder.com/magento-2-smtp-extension.html)
 
-Sources: https://landofcoder.com/testimonial-extension-for-magento2.html/
+Sources: https://landofcoder.com/magento-2-image-gallery.html/
